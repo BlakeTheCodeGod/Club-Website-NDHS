@@ -3,7 +3,7 @@
 
 const club = {
   name: "Notre Dame Coding Club",
-  meetingInfo: "Every Gold Tuesday During X Period, Steam Center"  // TODO: update
+  meetingInfo: "Every Thursday During Lunch, Steam Center"  // TODO: update
 };
 
 const members = [
