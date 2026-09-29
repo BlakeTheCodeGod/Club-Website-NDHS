@@ -8,8 +8,8 @@ const club = {
 
 const members = [
   { name: "Blake Westin", role: "President", note: "Create the best club in ND" },
-  { name: "Arie Lee", role: "Vice President", note: "Assist the President" }
-  { name: "Masha Poperejsky", role: "Outreach", note: "Make the best Club in ND" }
+  { name: "Arie Lee", role: "Vice President", note: "Assist the President" },
+  { name: "Masha Poperejsky", role: "Outreach", note: "Make the best Club in ND" },
   // add new members above
 ];
 
