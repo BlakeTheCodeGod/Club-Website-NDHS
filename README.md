@@ -1,6 +1,6 @@
 # Coding Club Website
 
-Built by the club, in plain HTML, CSS, and JavaScript. No install needed.
+NDHS CODING CLUB WEBSITE
 
 ## Files
 - `index.html`: page structure
