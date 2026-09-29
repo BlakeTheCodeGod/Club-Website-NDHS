@@ -12,6 +12,6 @@ const members = [
 ];
 
 const meetings = [
-  { date: "2026-10-5", title: "First Meeting", note: "Every member makes there 1st commitment" },
+  { date: "2026-10-05", title: "First Meeting", note: "Every member makes there 1st commitment" },
   // add new meetings above this line
 ];
