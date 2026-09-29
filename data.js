@@ -13,7 +13,7 @@ const members = [
 ];
 
 const meetings = [
-  { date: "2026-10-05", title: "First Meeting", note: "Every member makes there 1st commit" },
-  { date: "2026-10-12", title: "First Meeting", note: "Members make there own Repo" },
+  { date: "2026-10-05", title: "First Meeting - General Info", note: "General information about the club will be covered." },
+  { date: "2026-10-12", title: "Second Meeting - Members Join Repo", note: "Every member makes there 1st commit" },
   // add new meetings above this line
 ];
