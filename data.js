@@ -15,8 +15,8 @@ const members = [
 
 const meetings = [
   { date: "2026-10-05", title: "First Meeting", note: "Every member makes there 1st commitment" },
-  { date: "2026-10-12", title: "Repositories", note: "Members create their first Repo" },
+  { date: "2026-10-12", title: "Repositories", note: "Members create their first repo" },
   { date: "2026-10-19", title: "Projects", note: "Members will submit their first project" },
-  { date: "2026-10-12", title: "Webstie", note: "Club will discuss website design" },
+  { date: "2026-10-126", title: "Website Design", note: "Club will discuss website design preferences" },
   // add new meetings above this line
 ];
