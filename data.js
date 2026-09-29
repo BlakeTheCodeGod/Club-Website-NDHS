@@ -3,15 +3,15 @@
 
 const club = {
   name: "Coding Club",
-  meetingInfo: "Meets every Thursday after school, Room 000"  // TODO: update
+  meetingInfo: "Every Gold Tuesday During X Period, Steam Center"  // TODO: update
 };
 
 const members = [
-  { name: "Your Name", role: "President", note: "Set up this repo" },
-  // add new members above this line
+  { name: "Blake Westin", role: "President", note: "Make the best Club" },
+  // add new members above
 ];
 
 const meetings = [
-  { date: "2026-10-08", title: "Git 101", note: "Everyone makes their first commit" },
+  { date: "2026-10-5", title: "First Meeting", note: "Every member makes there 1st commitment" },
   // add new meetings above this line
 ];
