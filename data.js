@@ -8,10 +8,12 @@ const club = {
 
 const members = [
   { name: "Blake Westin", role: "President", note: "Create the best club in ND" },
+  { name: "Arie Lee", role: "Vice President", note: "Assist the President" },
   // add new members above
 ];
 
 const meetings = [
-  { date: "2026-10-05", title: "First Meeting", note: "Every member makes there 1st commitment" },
+  { date: "2026-10-05", title: "First Meeting", note: "Every member makes there 1st commit" },
+  { date: "2026-10-12", title: "First Meeting", note: "Members make there own Repo" },
   // add new meetings above this line
 ];
