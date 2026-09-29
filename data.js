@@ -10,6 +10,7 @@ const members = [
   { name: "Blake Westin", role: "President", note: "Create the best club in ND" },
   { name: "Arie Lee", role: "Vice President", note: "Assist the President" },
   { name: "Masha Poperejsky", role: "Outreach", note: "Make the best Club in ND" },
+  { name: "Jackson Henson", role: "Project Manager", note: "Plan coding projects" },
   // add new members above
 ];
 
