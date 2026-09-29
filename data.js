@@ -7,7 +7,7 @@ const club = {
 };
 
 const members = [
-  { name: "Blake Westin", role: "President", note: "Create the best club in ND" },
+  { name: "Blake Westin", role: "President", note: "Create a great club" },
   { name: "Arie Lee", role: "Vice President", note: "Assist the President" },
   // add new members above
 ];
