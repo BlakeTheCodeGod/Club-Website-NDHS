@@ -8,16 +8,10 @@ const club = {
 
 const members = [
   { name: "Blake Westin", role: "President", note: "Create the best club in ND" },
-  { name: "Arie Lee", role: "Vice President", note: "Assist the President" },
-  { name: "Masha Poperejsky", role: "Outreach", note: "Make the best Club in ND" },
-  { name: "Jackson Henson", role: "Project Manager", note: "Plan coding projects" },
   // add new members above
 ];
 
 const meetings = [
   { date: "2026-10-05", title: "First Meeting", note: "Every member makes there 1st commitment" },
-  { date: "2026-10-12", title: "Repositories", note: "Members create their first repo" },
-  { date: "2026-10-19", title: "Projects", note: "Members will submit their first project" },
-  { date: "2026-10-126", title: "Website Design", note: "Club will discuss website design preferences" },
   // add new meetings above this line
 ];
