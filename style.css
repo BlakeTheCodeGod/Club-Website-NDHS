@@ -33,7 +33,7 @@ main, footer { padding: 0 clamp(1rem, 5vw, 3rem); max-width: 68rem; margin: 0 au
 /* Hero: text on the left, image on the right */
 .hero {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 2rem;
   align-items: center;
   padding: clamp(2rem, 6vw, 4rem) 0 2rem;
