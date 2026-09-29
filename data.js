@@ -2,12 +2,12 @@
 // Keep the commas. Put your line just above the "// add new members above" comment.
 
 const club = {
-  name: "Coding Club",
+  name: "Notre Dame Coding Club",
   meetingInfo: "Every Gold Tuesday During X Period, Steam Center"  // TODO: update
 };
 
 const members = [
-  { name: "Blake Westin", role: "President", note: "Make the best Club" },
+  { name: "Blake Westin", role: "President", note: "Make the best Club in ND" },
   // add new members above
 ];
 
