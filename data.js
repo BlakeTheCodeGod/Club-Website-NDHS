@@ -3,11 +3,11 @@
 
 const club = {
   name: "Notre Dame Coding Club",
-  meetingInfo: "Every Monday during in lunch in the steam center"  // TODO: update
+  meetingInfo: "Every Monday during in lunch in the Steam Center"  // TODO: update
 };
 
 const members = [
-  { name: "Blake Westin", role: "President", note: "Create a great club" },
+  { name: "Blake Westin", role: "President", note: "Manage the club" },
   { name: "Arie Lee", role: "Vice President", note: "Assist the President" },
   { name: "Masha Poberejsky", role: "Outreach", note: "Manage Social Media" },
   // add new members above
